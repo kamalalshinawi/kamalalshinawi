@@ -71,7 +71,7 @@ A mobile AI assistant with Google sign-in and chat powered by the Hugging Face A
 
 `React Native` `Firebase Auth` `Hugging Face API` `TypeScript`
 
-### 🍔 [myApp — Food Ordering](https://github.com/kamalalshinawi/myApp)
+### 🍔 [myApp — Food Ordering](https://github.com/kamalalshinawi/Food-Delivery-App)
 Cross-platform food ordering app with Yup-validated auth, an animated bottom tab bar with a live cart badge, and AsyncStorage-backed cart persistence.
 
 `React Native` `TypeScript` `Redux Persist` `Reanimated` `Lottie`
