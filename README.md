@@ -2,7 +2,7 @@
 <h3 align="center">React Native Developer · Based in Egypt</h3>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kamalalshinawi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/your-handle/">
