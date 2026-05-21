@@ -57,26 +57,6 @@ I'm a mobile developer focused on building **clean, scalable, production-ready R
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
-
-## Featured Projects
-
-### 🛒 [E-Commerce App](https://github.com/kamalalshinawi/E-Commerce-App)
-A scalable React Native e-commerce app built with TypeScript, featuring product listings, cart management, and a clean modular architecture.
-
-`React Native` `TypeScript` `Redux Toolkit` `React Navigation`
-
-### 💬 [Chat AI App](https://github.com/kamalalshinawi/Chat_AI_App)
-A mobile AI assistant with Google sign-in and chat powered by the Hugging Face API.
-
-`React Native` `Firebase Auth` `Hugging Face API` `TypeScript`
-
-### 🍔 [myApp — Food Ordering](https://github.com/kamalalshinawi/Food-Delivery-App)
-Cross-platform food ordering app with Yup-validated auth, an animated bottom tab bar with a live cart badge, and AsyncStorage-backed cart persistence.
-
-`React Native` `TypeScript` `Redux Persist` `Reanimated` `Lottie`
-
----
 
 ## GitHub Stats
 
