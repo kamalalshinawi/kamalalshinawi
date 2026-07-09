@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Kamal Alshinawi</h1>
-<h3 align="center">React Native Developer building fast, polished, production-ready mobile apps</h3>
+<h1 align="center">Hi, I'm Kamal Alshinawi 👋</h1>
+<h3 align="center">React Native Developer | Building fast, polished, production-ready mobile apps</h3>
 
 <p align="center">
-  I turn ideas into cross-platform mobile experiences with clean architecture, reliable state management,
-  smooth navigation, and user interfaces that feel good on both iOS and Android.
+  I turn ideas into cross-platform mobile experiences with clean architecture, reliable state
+  management, smooth navigation, and interfaces that feel great on both iOS and Android.
 </p>
 
 <p align="center">
@@ -18,34 +18,54 @@
   </a>
 </p>
 
----
-
-## What I Do
-
-I specialize in building mobile apps with **React Native** and **TypeScript**, with a strong focus on maintainable code, scalable app structure, clean UI, and practical product thinking.
-
-- Build cross-platform apps with **React Native**, **TypeScript**, and modern mobile patterns
-- Create smooth app flows with **React Navigation**, authentication, onboarding, and protected routes
-- Manage complex state with **Redux Toolkit**, **Redux Persist**, and API-driven data flows
-- Integrate **REST APIs**, Firebase services, persistent storage, forms, and real-time features
-- Improve app quality through reusable components, readable code, performance awareness, and consistent UX
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Work-brightgreen?style=for-the-badge" alt="Open to Work" />
+</p>
 
 ---
 
-## Featured Projects
+### 📋 Snapshot
+
+| | |
+|---|---|
+| 📍 **Location** | Egypt |
+| 💼 **Open to** | Full-time roles · Freelance projects · Internships |
+| 🧠 **Core Stack** | React Native · TypeScript · Redux Toolkit |
+| 📧 **Email** | kamalalshinawi@gmail.com |
+| 🌐 **Portfolio** | [kamalalshinawi.lovable.app](https://kamalalshinawi.lovable.app/) |
+
+---
+
+### 👋 About Me
+
+I specialize in building mobile apps with **React Native** and **TypeScript**, with a strong focus on maintainable code, scalable app structure, clean UI, and practical product thinking. Below are six full apps I've designed and built, spanning finance, e-commerce, AI chat, and productivity.
+
+---
+
+### 🚀 What I Do
+
+- **Build** cross-platform apps with React Native, TypeScript, and modern mobile patterns
+- **Design** smooth app flows with React Navigation, authentication, onboarding, and protected routes
+- **Manage** complex state with Redux Toolkit, Redux Persist, and API-driven data flows
+- **Integrate** REST APIs, Firebase services, persistent storage, forms, and real-time features
+- **Improve** app quality through reusable components, readable code, performance awareness, and consistent UX
+
+---
+
+### 🧩 Featured Projects
 
 | Project | Focus |
 | --- | --- |
-| **Track My Money** | Personal finance app focused on expenses, income tracking, and clean data organization |
+| **Track My Money** | Personal finance app for expenses, income tracking, and clean data organization |
 | **E-commerce App** | Shopping experience with product flows, cart logic, and mobile-first UI patterns |
 | **Chat AI App** | Conversational mobile interface with API integration and polished interaction states |
-| **Book Store** | Store-style app structure with lists, details, and reusable React Native components |
-| **Golden Price** | Price-tracking style app focused on practical data presentation |
-| **TimeKeeper** | Productivity/time-management mobile experience |
+| **Book Store** | Store-style app structure with lists, details, and reusable components |
+| **Golden Price** | Price-tracking app focused on clear, at-a-glance data presentation |
+| **TimeKeeper** | Productivity and time-management mobile experience |
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack
 
 **Core**
 
@@ -79,7 +99,7 @@ I specialize in building mobile apps with **React Native** and **TypeScript**, w
 
 ---
 
-## Currently Improving
+### 📈 Currently Learning & Growing
 
 - Advanced React Native performance optimization
 - Native modules and deeper platform-specific development
@@ -88,7 +108,7 @@ I specialize in building mobile apps with **React Native** and **TypeScript**, w
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kamalalshinawi&show_icons=true&hide_border=true&theme=tokyonight" alt="Kamal's GitHub stats" />
@@ -101,10 +121,10 @@ I specialize in building mobile apps with **React Native** and **TypeScript**, w
 
 ---
 
-## Let's Connect
+### 🤝 Let's Connect
 
-I'm open to **React Native roles**, freelance mobile projects, internships, and collaboration on useful product ideas.
+I'm actively open to **React Native roles**, freelance mobile projects, internships, and collaboration on useful product ideas. Feel free to reach out!
 
 <p align="center">
-  <strong>Egypt</strong> &nbsp;|&nbsp; <strong>React Native</strong> &nbsp;|&nbsp; <strong>TypeScript</strong> &nbsp;|&nbsp; <strong>Mobile Development</strong>
+  <strong>📍 Egypt</strong> &nbsp;|&nbsp; <strong>React Native</strong> &nbsp;|&nbsp; <strong>TypeScript</strong> &nbsp;|&nbsp; <strong>Mobile Development</strong>
 </p>
